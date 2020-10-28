@@ -5,7 +5,9 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      white:"#fff",
+    },
   },
   variants: {},
   plugins: [],
